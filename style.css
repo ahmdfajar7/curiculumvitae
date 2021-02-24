@@ -1,0 +1,51 @@
+body{
+    background-color: bisque;
+    padding: 0px;
+    margin:0px;
+}
+
+.menu {
+    width: 100%;
+    background-color: darkslateblue;
+    margin:0px;
+    position: fixed;
+    }
+
+ ul {
+    margin: 0px;
+    padding: 0px;
+    float: right;
+    
+    
+   
+ 
+}
+
+ li {
+    display: inline-block;
+    margin:20px;
+    color: floralwhite;
+    float: left;
+  
+}
+
+a {
+    color: floralwhite;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    
+  
+}
+
+a:hover {
+        background-color: lightslategrey;
+        margin:0px;
+        padding: 20px;
+        
+}
+
+.profile{
+    background-color: mediumvioletred;
+    height: 600px;
+}
